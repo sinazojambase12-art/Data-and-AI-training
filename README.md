@@ -1,1 +1,1 @@
-# Data-and-AI-training.
+# Data-and-AI-training
